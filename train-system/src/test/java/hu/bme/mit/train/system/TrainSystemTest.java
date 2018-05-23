@@ -50,5 +50,13 @@ public class TrainSystemTest {
 		Assert.assertEquals(0, controller.getReferenceSpeed());
 	}
 
+	@Test
+		public void TachoTest() {
+			user.overrideJoystickPosition(10);
+			controller.followSpeed();
+			user.overrideJoystickPosition(-3);
+			controller.followSpeed();
 	
+			Assert.assertFalse(controller.getTacho().isEmpty());
+		}
 }
