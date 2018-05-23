@@ -10,6 +10,7 @@ public class TrainUserImpl implements TrainUser {
 
 	public TrainUserImpl(TrainController controller) {
 		this.controller = controller;
+		System.out.println("Controller added");
 	}
 
 	@Override

@@ -1,0 +1,68 @@
+[33mcommit 498b2df99776e26f2837e4a95f98805f05148176[m
+Author: danospeti <danospeti@gmail.com>
+Date:   Tue May 22 23:57:57 2018 -0700
+
+    Driver Bug Fixed
+
+[33mcommit 354bea2de250befc2d0e74abe89de72c4ce2b4e7[m
+Author: danospeti <danospeti@gmail.com>
+Date:   Tue May 22 23:26:25 2018 -0700
+
+    Modified ReadMe file
+
+[33mcommit d547668cbde3d2a646e095e93185ce67a12f408e[m
+Merge: f25d5dd ed04861
+Author: Kaspi95 <36565355+Kaspi95@users.noreply.github.com>
+Date:   Mon Mar 5 06:44:16 2018 -0800
+
+    Merge pull request #1 from FTSRG-ReteLab/danos
+    
+    Implemented feature
+
+[33mcommit ed04861de3f53d61ccb6cb4b1b093b7ebc90c243[m
+Author: danospeti <danopseti@gmail.com>
+Date:   Mon Mar 5 06:38:13 2018 -0800
+
+    Implemented feature
+
+[33mcommit f25d5dd31a49c7942c98925e2d36a731a6d17880[m
+Author: Kaspi95 <36565355+Kaspi95@users.noreply.github.com>
+Date:   Mon Mar 5 05:47:08 2018 -0800
+
+    Update README.md
+
+[33mcommit 3d43ac417d53acc0413f04604363f1ab4a29f8c9[m
+Author: Gabor Szarnyas <szarnyasg@gmail.com>
+Date:   Mon Mar 13 08:39:14 2017 +0100
+
+    Update README
+
+[33mcommit a4d46b60c7a4880e0cd20a8150d8615dc93f8936[m
+Author: Dávid Honfi <davidhonfi@gmail.com>
+Date:   Sun Mar 12 21:24:10 2017 +0100
+
+    Added mockito to Gradle build
+
+[33mcommit 26b5c78451b1a7f5eb76c92d08710ab3269d0532[m
+Author: Hajdu Ákos <hajdua@mit.bme.hu>
+Date:   Thu Mar 9 12:11:14 2017 +0100
+
+    Extended readme
+
+[33mcommit 0174157d9a581fbd466736ece14668e434dd14b3[m
+Author: Dávid Honfi <davidhonfi@gmail.com>
+Date:   Wed Mar 8 22:24:36 2017 +0100
+
+    Changes for testing lab
+
+[33mcommit 77f7fa5fe69591ac7eea4c2b8a7a377e6bc357ec[m
+Author: Gabor Szarnyas <szarnyasg@gmail.com>
+Date:   Mon Mar 6 15:36:27 2017 +0100
+
+    Add .idea directory to gitignore
+
+[33mcommit 9b5d53c38d3032968a714d910f86fae5b55f10f2[m
+Author: Gabor Szarnyas <szarnyasg@gmail.com>
+Date:   Mon Feb 27 13:58:39 2017 +0100
+
+    Initial commit
