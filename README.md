@@ -1,3 +1,6 @@
+## MIT2 Lab
+*Ez a szöveg dőlt,* **ez pedig félkövér**
+
 # verification-lab 
 
 This is a sample application for the verification laboratory.
